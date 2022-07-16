@@ -24,3 +24,11 @@ Dataset columns description
 * **Last Updated:** Date when the app was last updated on Play Store (as when scraped)
 * **Current Ver:** Current version of the app available on Play Store (as when scraped)
 * **Android Ver:** Min required Android version (as when scraped)
+
+User Review Dataset column description:- 
+
+• **App:** Application name 
+• **Translate Reviews:** Reviews on various applications given by the user
+• **Sentiment:** Positive, Negative, or Neutral 
+• **Sentiment Polarity:** Tell us about the polarity of the sentiment of the translated reviews that we received. 
+• **Sentiment Subjectivity:** Tell us about the subjectivity of the various reviews according to the translated review.
