@@ -28,7 +28,11 @@ Dataset columns description
 User Review Dataset column description:- 
 
 • **App:** Application name 
+
 • **Translate Reviews:** Reviews on various applications given by the user
+
 • **Sentiment:** Positive, Negative, or Neutral 
+
 • **Sentiment Polarity:** Tell us about the polarity of the sentiment of the translated reviews that we received. 
+
 • **Sentiment Subjectivity:** Tell us about the subjectivity of the various reviews according to the translated review.
